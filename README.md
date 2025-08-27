@@ -16,9 +16,13 @@ This can be applied in autonomous driving, road maintenance, urban planning, and
 ## Features
 
 **Real-time Detection:** Processes video streams or images with low latency.
+
 **Customizable Dataset:** Support for training on custom roadside object datasets.
+
 **Model:** YOLOv8n .
+
 **Evaluation Metrics:** Built-in tools to compute mAP, precision, and recall.
+
 **Visualization:** Outputs annotated images/videos with bounding boxes and confidence scores.
 
 
